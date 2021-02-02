@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about Css and Javascript
-- 📫 How to reach me twitter : https://twitter.com/bigg_aji
+- 📫 You can reach me on twitter : https://twitter.com/bigg_aji
 - I have a youtube channel, where i teach how to code, please check it out and subscribe  : https://www.youtube.com/channel/UCaNTxRkQ01gMBnL1mgnM_KA
 <!--
 - 😄 Pronouns: ...
