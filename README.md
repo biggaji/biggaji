@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Tobiloba Ajibade.
 Am a software engineer.
-I specialise in building scalable backend services.
+I specialise in building scalable backend services and infrastructure.
 I love contributing to Open source projects.
 - 💬 Ask me about css and javascript, typescript, postgresql, graphql, docker.
 - 📫 You can reach me on twitter : <a href="https://twitter.com/bigg_aji">@bigg_aji</a>
