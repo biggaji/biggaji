@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Tobiloba Ajibade.
-Am a software engineer.
-I specialise in building scalable backend services and infrastructure.
-I love contributing to Open source projects.
-- 💬 Ask me about css and javascript, typescript, postgresql, graphql, docker.
-- 📫 You can reach me on twitter : <a href="https://twitter.com/biggaji0x">biggaji0x</a>
-- I have a youtube channel, where i teach how to code, please check it out and subscribe  : <a href="https://www.youtube.com/channel/UCaNTxRkQ01gMBnL1mgnM_KA">Bigg Codes</a>
+- I'm Tobiloba Ajibade.
+- I specialize in building scalable backend services and infrastructure.
+- Lover of Open source.
+- Ask me about Javascript, Typescript, Postgresql, GraphQL, Docker, Node and Go.
+- You can reach me on twitter : <a href="https://twitter.com/oxwware">oxwware</a>
+- I teach code tricks, tips and tutorial on youtube, please check it out and subscribe : <a href="https://www.youtube.com/channel/UCaNTxRkQ01gMBnL1mgnM_KA">Bigg Codes</a>
